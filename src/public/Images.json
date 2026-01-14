@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "cover": "https://m.media-amazon.com/images/I/812whWLbqAL._SY466_.jpg",
+    "genre": "Fiction",
+    "rating": 4.5,
+    "year": 2020,
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "cover": "https://cdn.dc5.ro/img-prod/1882063305-0.jpeg",
+    "genre": "Science Fiction",
+    "rating": 4.8,
+    "year": 2021,
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "title": "The Thursday Murder Club",
+    "author": "Richard Osman",
+    "cover": "https://m.media-amazon.com/images/I/91PQTHXq93L._SY466_.jpg",
+    "genre": "Mystery",
+    "rating": 4.3,
+    "year": 2020,
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "cover": "https://m.media-amazon.com/images/I/81Om0n+pfyL._SY466_.jpg",
+    "genre": "Memoir",
+    "rating": 4.6,
+    "year": 2018,
+    "status": "available"
+  }
+]

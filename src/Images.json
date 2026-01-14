@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=600&fit=crop",
+    "genre": "Fiction"
+  },
+  {
+    "id": 2,
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "imageUrl": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?w=400&h=600&fit=crop",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 3,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?w=400&h=600&fit=crop",
+    "genre": "Mystery"
+  },
+  {
+    "id": 4,
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400&h=600&fit=crop",
+    "genre": "Fantasy"
+  },
+  {
+    "id": 5,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "imageUrl": "https://images.unsplash.com/photo-1515378960530-7c0da6231fb1?w=400&h=600&fit=crop",
+    "genre": "Memoir"
+  },
+  {
+    "id": 6,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "imageUrl": "https://images.unsplash.com/photo-1495446815901-a7297e633e8d?w=400&h=600&fit=crop",
+    "genre": "Self-Help"
+  },
+  {
+    "id": 7,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "imageUrl": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?w=400&h=600&fit=crop",
+    "genre": "Thriller"
+  },
+  {
+    "id": 8,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "imageUrl": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=600&fit=crop",
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": 9,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "imageUrl": "https://images.unsplash.com/photo-1532012197267-da84d127e765?w=400&h=600&fit=crop",
+    "genre": "Science Fiction"
+  },
+  {
+    "id": 10,
+    "title": "1984",
+    "author": "George Orwell",
+    "imageUrl": "https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=400&h=600&fit=crop",
+    "genre": "Dystopian"
+  },
+  {
+    "id": 11,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "imageUrl": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?w=400&h=600&fit=crop",
+    "genre": "Romance"
+  },
+  {
+    "id": 12,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "imageUrl": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=600&fit=crop",
+    "genre": "Classic"
+  }
+]
